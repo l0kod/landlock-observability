@@ -1,0 +1,11 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
+---
+BasedOnStyle: LLVM
+UseTab: Always
+IndentWidth: 8
+TabWidth: 8
+ContinuationIndentWidth: 8
+BreakBeforeBraces: Linux
+BreakBeforeTernaryOperators: false
+ColumnLimit: 80
+AlignEscapedNewlines: Left
